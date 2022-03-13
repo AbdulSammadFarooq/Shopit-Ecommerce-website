@@ -1,0 +1,19 @@
+[
+  {
+    "name": "SanDisk Ultra 128GB SDXC UHS-I Memory Card tpto 80MB/s",
+    "price": "45.89",
+    "description": "In Informatics, dummy data is benign information that does not contain any useful data, but serves to reserve space where real data is nominally present. Dummy data can be used as a placeholder for both testing and operational purposes.",
+    "rating": 4.5,
+    "image": [
+      {
+        "public_id": "products/tzfsnrli3szrdnb4jgge",
+        "url": "https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 50,
+    "numOfReviews": 32,
+    "reviews": []
+  }
+]
